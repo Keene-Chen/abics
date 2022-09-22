@@ -1,0 +1,5 @@
+# ignore all build folders
+**build/
+**build-*/
+**build_*/
+res/*.jpeg

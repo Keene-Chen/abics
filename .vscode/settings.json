@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "makefile": "makefile",
+        "*.json": "jsonc",
+        "serial_port.h": "c",
+        "mqtt_log.h": "c",
+        "mqtt_config.h": "c",
+        "camer.h": "c",
+        "main.h": "c"
+    }
+}
